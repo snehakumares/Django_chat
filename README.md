@@ -39,6 +39,6 @@
 
 ## Run the project
 ```sh
-cd chat
+cd chatapp
 py manage.py runserver
 ```
